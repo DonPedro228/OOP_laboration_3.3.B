@@ -1,0 +1,5 @@
+﻿  Vector3D.cpp
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.3.B\Vector3D.h(10,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.3.B\Vector3D.h(10,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.3.B\Vector3D.h(10,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  laboration_3.3.B.vcxproj -> C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.3.B\x64\Debug\laboration_3.3.B.exe
